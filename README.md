@@ -12,9 +12,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
 
-- **Libraries and tools**: request, selenium, bs4, matplotlib, seaborn, speech recognition, aiogram, pyrogram (priority framework) and others (+20 i think so that).
-- **Libraries I study**: pandas, numpy, PyTorch, Tensorflow, Sci-kit learn, Django
-- **Projects**:
+<h1 align="center">Projects</h1>
  
 <h1 align="center">
   <img src="https://www.consentantaneity.space/images/jst_cat_bot.png" alt="Just a Cat bot" width="100" height="100" style="border-radius: 50%;" />
