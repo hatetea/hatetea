@@ -15,7 +15,7 @@
 <h1 align="center">Projects</h1>
  
 <h1 align="center">
-  <img src="https://www.consentantaneity.space/images/jst_cat_bot.png" alt="Just a Cat bot" width="100" height="100" style="border-radius: 50%;" />
+  <a href="https://t.me/jst_cat_bot" target="_blank">
+    <img src="https://www.consentantaneity.space/images/jst_cat_bot.png" alt="Just a Cat bot" width="100" height="100" style="border-radius: 50%;" />
+  </a>
 </h1>
-
-<h1 align="center"><a href="https://t.me/jst_cat_bot">Just a Cat Bot</a></h1>
